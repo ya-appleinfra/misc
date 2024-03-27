@@ -1,4 +1,4 @@
-Рецепты для загрузки у упаковки Yandex Browser
+Рецепты для загрузки и упаковки Yandex Browser
 
 Для загрузки Yandex Browser для Apple Silicon маков необходимо задать переменной **ARCH** значение **arm64**
 
